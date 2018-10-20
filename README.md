@@ -30,9 +30,11 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 Here are 2 quick and painless ways to contribute to this project:
 
-Add your name to the CONTRIBUTORS.md file
-Create a `Hello` Script in your way in a language of your choice
-Choose one or all 2, make a Pull Request for your work, wait for it to be merged!
+* Add your name to the CONTRIBUTORS.md file
+
+* Create a `Hello` Script in your way in a language of your choice
+
+* Choose one or all 2, make a Pull Request for your work, wait for it to be merged!
 
 ### Getting Started
 
@@ -66,7 +68,7 @@ Thank you to all the people who already contributed to Hacktoberfest2018!
 ### 2. Create a `Hello` Script in your way
 
 Add a yourusername.xx script in any language of your choice!
-use this model:
+Use this model:
 Like this one:
 
 LANGUAGE: Javascript
@@ -74,8 +76,8 @@ ENV: Node.js
 AUTHOR: Moji Tavoni
 GITHUB: https://github.com/Mojtabatmj
 
-console.log('Hello, Github world Let's start a wonderful Coding!');
+console.log('Hello, Github world let's start a wonderful Coding!');
 
-Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too!
+Don't forget to include the comments as seen above. Feel free to include additional information about the language you chose in your comments too!
 
-## Happy Codding ;)
+## Happy Coding ;)
