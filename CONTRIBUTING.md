@@ -249,3 +249,8 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Timothy Mardesen](https://github.com/timmay54)
+- Bio: Farmer, Rapper, Show Cattle Enthusiast, Hacker, and Programmer.
+- Programming Language: Java, Python, C#, C
+
